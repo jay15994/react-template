@@ -1,0 +1,17 @@
+body {
+  background: #ccc;
+}
+
+.dashboard-button {
+  margin-bottom: 20px;
+}
+
+.user-card {
+  display: flex;
+  > img {
+    margin-right: 50px;
+  }
+  & + .user-card {
+    margin-top: 30px;
+  }
+}
