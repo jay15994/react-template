@@ -1,4 +1,4 @@
-React Template
+# React Template
 
 ## For Setup
 ```
