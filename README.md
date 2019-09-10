@@ -2,7 +2,7 @@
 
 ## For Setup
 ```
-  1 create-react-app react-template
+  1 create-react-app app-name
   2 npm run eject
 ```
 
