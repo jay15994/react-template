@@ -64,6 +64,7 @@
   1 npm i redux-form
   2 Add redux form to `rootReducer.js`
 ```
+
 ## For Testing
 ```
   npm i -D jest enzyme jest-enzyme enzyme-adapter-react-16
